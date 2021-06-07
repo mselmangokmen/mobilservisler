@@ -45,5 +45,6 @@
       "teacherID":1,
       "active":true
     }
-  ] 
+  ] ,
+  "department":"Computer Science"
 }
