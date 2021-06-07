@@ -46,5 +46,6 @@
       "active":true
     }
   ] ,
-  "department":"Computer Science"
+  "department":{"name":"Computer Science"
+               }
 }
