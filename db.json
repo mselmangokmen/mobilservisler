@@ -44,7 +44,7 @@
       "credit": 3,
       "teacherID":1,
       "active":true
-    },  
+    }
   ],
   "department": {
     "name": "Computer Science"
