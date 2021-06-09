@@ -1,5 +1,5 @@
 {
-  "students": [
+  "Students": [
     {
       "id": 1,
       "number": "20185461236",
@@ -36,7 +36,7 @@
       "departmentID": 1
     }
   ],
-  "department": [
+  "Departments": [
     {
       "id": 1,
       "name":"Computer Engineering"},
@@ -76,7 +76,7 @@
       "studentID":5
     }
   ],
-  "courses": [
+  "Courses": [
     {
       "id": 1,
       "name":"Mobile Programming",
