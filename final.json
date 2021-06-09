@@ -80,37 +80,62 @@
     {
       "id": 1,
       "name":"Mobile Programming",
-      "DepartmentID":1
+      "DepartmentID":1,
+      "active":true
     },
     {
       "id": 2,
       "name":"Algorithms",
-      "DepartmentID":1
+      "DepartmentID":1,
+      "active":true
     },
     {
       "id": 3,
       "name":"Programming Languages 2",
-      "DepartmentID":1
+      "DepartmentID":1,
+      "active":false
     },
     {
       "id": 4,
       "name":"Circuit Analysis",
-      "DepartmentID":2
+      "DepartmentID":2,
+      "active":true
     },
     {
       "id": 5,
       "name":"Power Electronics",
-      "DepartmentID":2
+      "DepartmentID":2,
+      "active":true
     },
     {
       "id": 6,
       "name":"Anatomy",
-      "DepartmentID":3
+      "DepartmentID":3,
+      "active":false
     },
     {
       "id": 7,
       "name":"Physiology for Engineers",
-      "DepartmentID":3
-    }
+      "DepartmentID":3,
+      "active":true
+    },  
+    {
+      "id": 8,
+      "name":"Microprocessors",
+      "DepartmentID":3,
+      "active":false
+    },  
+    {
+      "id": 9,
+      "name":"Information Systems",
+      "DepartmentID":1,
+      "active":true
+    },
+        {
+      "id": 10,
+      "name":"Electronic",
+      "DepartmentID":1,
+      "active":true
+    },
   ]
 }
