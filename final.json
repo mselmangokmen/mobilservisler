@@ -1,30 +1,116 @@
- {
-  "students":[
-    {"id":1, "number":"20185461236", "name":"ahmet selçuk", "email": "20185461236@ogr.karabuk.edu.tr","departmentID":1},
-    {"id":2, "number":"20185461216", "name":"emrullah mahmut selman gökmen", "email": "20185461216@ogr.karabuk.edu.tr","departmentID":2},
-    {"id":3, "number":"20185461225", "name":"mehmet toksöz", "email": "20185461225@ogr.karabuk.edu.tr","departmentID":3},
-    {"id":3, "number":"20185461940", "name":"ceren ulusoy", "email": "20185461940@ogr.karabuk.edu.tr","departmentID":2},
-    {"id":5, "number":"20185461223",   "name":"ayşe yılmaz", "email": "20185461223@ogr.karabuk.edu.tr","departmentID":1} 
+{
+  "students": [
+    {
+      "id": 1,
+      "number": "20185461236",
+      "name": "ahmet selçuk",
+      "email": "20185461236@ogr.karabuk.edu.tr",
+      "departmentID": 1
+    },
+    {
+      "id": 2,
+      "number": "20185461216",
+      "name": "emrullah mahmut selman gökmen",
+      "email": "20185461216@ogr.karabuk.edu.tr",
+      "departmentID": 2
+    },
+    {
+      "id": 3,
+      "number": "20185461225",
+      "name": "mehmet toksöz",
+      "email": "20185461225@ogr.karabuk.edu.tr",
+      "departmentID": 3
+    },
+    {
+      "id": 3,
+      "number": "20185461940",
+      "name": "ceren ulusoy",
+      "email": "20185461940@ogr.karabuk.edu.tr",
+      "departmentID": 2
+    },
+    {
+      "id": 5,
+      "number": "20185461223",
+      "name": "ayşe yılmaz",
+      "email": "20185461223@ogr.karabuk.edu.tr",
+      "departmentID": 1
+    }
   ],
-  "department":[
-    {"id":1,"name"="Computer Engineering"},
-    {"id":2,"name"="Electronic Engineering"},
-    {"id":3,"name"="Biomedical Engineering"} 
+  "department": [
+    {
+      "id": 1,
+      "name":"Computer Engineering"},
+    {
+      "id": 2,
+      "name":"Electronic Engineering"
+    },
+    {
+      "id": 3,
+      "name":"Biomedical Engineering"
+    }
   ],
-  "GPAS":[
-    {"id":1,"GPA"=54.3, "studentID"=1},
-    {"id":2,"GPA"=75.55,   "studentID"=2},
-    {"id":3,"GPA"=80.10,   "studentID"=3},
-    {"id":4,"GPA"=55.40,   "studentID"=4},
-    {"id":5,"GPA"=88.35,  "studentID"=5}
+  "GPAS": [
+    {
+      "id": 1,
+      "GPA":54.3,
+      "studentID":1
+    },
+    {
+      "id": 2,
+      "GPA":75.55,
+      "studentID":2
+    },
+    {
+      "id": 3,
+      "GPA":80.10,
+      "studentID":3
+    },
+    {
+      "id": 4,
+      "GPA":55.40,
+      "studentID":4
+    },
+    {
+      "id": 5,
+      "GPA":88.35,
+      "studentID":5
+    }
   ],
-  "courses":[
-    {"id":1,"name"="Mobile Programming", "DepartmentID"=1},
-    {"id":2,"name"="Algorithms",   "DepartmentID"=1},
-    {"id":3,"name"="Programming Languages 2",   "DepartmentID"=1},
-    {"id":4,"name"="Circuit Analysis",   "DepartmentID"=2},
-    {"id":5,"name"="Power Electronics",  "DepartmentID"=2},    
-    {"id":6,"name"="Anatomy",   "DepartmentID"=3},
-    {"id":7,"name"="Physiology for Engineers",   "DepartmentID"=3}
+  "courses": [
+    {
+      "id": 1,
+      "name":"Mobile Programming",
+      "DepartmentID":1
+    },
+    {
+      "id": 2,
+      "name":"Algorithms",
+      "DepartmentID":1
+    },
+    {
+      "id": 3,
+      "name":"Programming Languages 2",
+      "DepartmentID":1
+    },
+    {
+      "id": 4,
+      "name":"Circuit Analysis",
+      "DepartmentID":2
+    },
+    {
+      "id": 5,
+      "name":"Power Electronics",
+      "DepartmentID":2
+    },
+    {
+      "id": 6,
+      "name":"Anatomy",
+      "DepartmentID":3
+    },
+    {
+      "id": 7,
+      "name":"Physiology for Engineers",
+      "DepartmentID":3
+    }
   ]
 }
